@@ -1,3 +1,3 @@
-var a=50;
-var b=30;
-console.log(a+b);
+var a=5;
+var b=3;
+console.log(a-b);
